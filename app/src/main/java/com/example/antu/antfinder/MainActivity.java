@@ -105,7 +105,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
     public void searchClasses(View view){
-        header_txt.setText("Here are the aviable clases:");
+        header_txt.setText("Here are the available classes:");
         srch_btn.setVisibility(view.GONE);
         building_txt.setVisibility(view.GONE);
         building_edit.setVisibility(view.GONE);
